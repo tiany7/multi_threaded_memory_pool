@@ -1,1 +1,3 @@
-# multi_threaded_memory_pool
+# C++内存池
+
+作为下一个个人项目来搞。
